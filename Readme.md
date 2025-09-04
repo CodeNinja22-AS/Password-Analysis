@@ -2,11 +2,13 @@
 
 This is the first project in a cybersecurity roadmap, designed to help beginners understand fundamental security concepts through practical application. This tool, built in Python, evaluates the strength of a password by calculating its entropy and providing a simple strength rating.
 
+
 ✨ Features
 
 Entropy Calculation: Determines the randomness of a password in bits, a key metric for security.
 Strength Rating: Provides a clear rating (e.g., "Weak," "Strong") based on the calculated entropy.
 Simple Command-Line Interface (CLI): Easy to use for quick checks.
+
 
 💻 How It Works
 
@@ -21,7 +23,6 @@ Prerequisites
 Python 3.x installed on your machine.
 
 Installation
-
 Clone this repository or download the password_checker.py file.
 Open your terminal or command prompt.
 Navigate to the directory where the file is saved.
@@ -30,11 +31,12 @@ Run the script from your terminal:
 python password_checker.py
 The script will prompt you to enter a password. After you type it in and press Enter, it will display the password's length, entropy, and strength rating.
 
-📄 Terminology
 
+📄 Terminology
 Entropy: A measure of a password's randomness and unpredictability. Higher entropy means a more secure password.
 Brute-Force Attack: A method of cracking a password by trying every possible combination of letters, numbers, and symbols until the correct one is found.
 Character Set: The collection of all possible characters that could be used in a password (e.g., a-z, A-Z, 0-9, special characters).
+
 
 💡 Next Steps
 
