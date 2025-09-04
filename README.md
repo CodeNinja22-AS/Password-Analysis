@@ -1,1 +1,1 @@
-A password analysis tool
+A password analysis tool.
