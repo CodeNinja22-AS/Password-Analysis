@@ -1,2 +1,2 @@
 A password analysis tool.
-By Abhrant Singh
+By Abhrant Singh.
