@@ -33,6 +33,7 @@ The script will prompt you to enter a password. After you type it in and press E
 
 
 📄 Terminology
+
 Entropy: A measure of a password's randomness and unpredictability. Higher entropy means a more secure password.
 Brute-Force Attack: A method of cracking a password by trying every possible combination of letters, numbers, and symbols until the correct one is found.
 Character Set: The collection of all possible characters that could be used in a password (e.g., a-z, A-Z, 0-9, special characters).
