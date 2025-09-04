@@ -11,9 +11,6 @@ Simple Command-Line Interface (CLI): Easy to use for quick checks.
 💻 How It Works
 The tool uses a simple but effective formula to calculate password entropy:
 
-E=L\*
-log_2(C)
-
 L is the length of the password.
 
 C is the size of the character set used (e.g., lowercase letters, uppercase letters, numbers, special characters).
